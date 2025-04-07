@@ -118,7 +118,12 @@ The model is split into **training** and **testing** datasets to ensure reliable
 This app provides general fitness and dietary recommendations. Always consult with your doctor or a registered dietitian before starting any fitness or diet program — especially if you have underlying health conditions.
 
 ---
+## 🧪 Test the App Live
 
+You can try our Streamlit app here:  
+🔗 https://gymfitness.streamlit.app/
+
+---
 ## 🙌 Thank You!
 
 Thanks for checking out the project! If you found it helpful, feel free to ⭐ star the repo or suggest improvements.
