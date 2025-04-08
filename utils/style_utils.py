@@ -7,7 +7,7 @@ def set_custom_style():
             background-color: #f2f4f7;
         }
         .section {
-            background: linear-gradient(to right, #e0eafc, #cfdef3);
+            background: linear-gradient(to right, #13315c, #2C3E50);
             padding: 2rem;
             border-radius: 20px;
             box-shadow: 0 4px 20px rgba(0,0,0,0.1);
@@ -15,7 +15,7 @@ def set_custom_style():
         }
         .title {
             text-align: center;
-            color: #2c3e50;
+            color: #fdf0d5;
             font-size: 40px;
             font-weight: bold;
             margin-bottom: 1rem;
